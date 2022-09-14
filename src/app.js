@@ -29,7 +29,7 @@ let domainNameGenerator = () => {
   for (let i = 0; i < pronoun.length; i++) {
     for (let m = 0; m < adj.length; m++) {
       for (let b = 0; b < noun.length; b++) {
-        for (let k = 0; b < extension.length; k++) {}
+        for (let k = 0; k < extension.length; k++) {}
       }
     }
   }
